@@ -1,0 +1,8 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-right: 18px;
+  width: 100%;
+}
+

@@ -1,0 +1,23 @@
+.user-details-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-icon {
+  width: 60px;
+  align-self: center;
+}
+
+.user-name {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-weight: 700;
+}
+
+.description {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
